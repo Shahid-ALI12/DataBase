@@ -128,7 +128,7 @@ namespace Database_Project
             }
             else
             {
-                MessageBox.Show("No matching flight record found.", "Notice", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Record not found.", "Notice", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
 

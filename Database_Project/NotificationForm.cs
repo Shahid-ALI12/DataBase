@@ -150,7 +150,7 @@ namespace Database_Project
             }
             else
             {
-                MessageBox.Show("No matching notification record found.", "Notice", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Record not found.", "Notice", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
 
